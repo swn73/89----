@@ -4,3 +4,4 @@ Two species of midges, Af and Apf, have been identified by biologists Grogan and
 2. Apply your method to three specimens with (antenna, wing) lengths (1.24, 1.80), (1.28, 1.84), (1.40, 2.04).  
 3. Assume that species Af is a valuable pollinator and species Apf is a carrier of a debilitating disease. Would you modify your classification scheme and if so, how?  
 
+ ![](img/001.png)
